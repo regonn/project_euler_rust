@@ -2,3 +2,7 @@
 name = "project_euler_rust"
 version = "0.1.0"
 authors = ["regonn <github@regonn.tokyo>"]
+license="MIT"
+readme = "README.md"
+repository = "https://github.com/regonn/project_euler_rust"
+description = "Solving Project Euler with Rust."
