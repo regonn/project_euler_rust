@@ -1,4 +1,8 @@
-#
+# Run test
+
+```
+cargo test --bin p001
+```
 
 # solve project Euler
 
